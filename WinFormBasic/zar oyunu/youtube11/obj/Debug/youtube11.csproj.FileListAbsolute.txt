@@ -1,0 +1,20 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\bin\Debug\youtube11.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\bin\Debug\youtube11.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\bin\Debug\youtube11.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.csprojAssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\youtube11\youtube11\obj\Debug\youtube11.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\bin\Debug\youtube11.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\bin\Debug\youtube11.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\bin\Debug\youtube11.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.csprojAssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\zar oyunu yt11.drs\youtube11\obj\Debug\youtube11.pdb

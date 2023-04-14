@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csprojAssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Form.App.Framework\youtube\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.pdb
